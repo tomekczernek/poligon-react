@@ -1,0 +1,15 @@
+.users-user-row{
+    margin: 10px 0;
+    display: flex;
+    padding: 6px;
+    /* flex-direction: row; */
+    justify-content: space-between;
+}
+
+.users-user-row:nth-child(odd){
+    background-color: #ccc;
+}
+
+/* .users-user-row-user-name{
+
+} */

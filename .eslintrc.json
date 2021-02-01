@@ -1,0 +1,12 @@
+{
+    "extends": "react-app",
+    "env": {
+        "cypress/globals": true
+    },
+    "rules":{
+        "semi": "error"
+    },
+    "plugins":[
+        "cypress"
+    ]
+}
